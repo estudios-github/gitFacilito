@@ -1,0 +1,132 @@
+@import url(http://fonts.googleapis.com/css?family=Playfair+Display:400,700,900,400italic,700italic,900italic);
+
+.wrapper {
+    margin: 50px auto;
+    display: block;
+    width: 600px;
+    font-family: 'Playfair Display', serif;
+    font-size: 36px;
+    color: saddlebrown;
+}
+
+p {
+    width: 600px;
+    margin: 50px auto;
+}
+
+span {
+    display: block;
+    line-height: 100%;
+}
+
+.that-guy, .mystery, .wrapped, .enigma, .ticking, .bleep, .ing {
+    display: inline-block;
+    /* Groups spans that should be on the same line */
+}
+
+.are-you-kidding {
+    font-size: 68px;
+    font-weight: 900;
+    margin-bottom: 30px;
+    text-align: right;
+    color: darkseagreen;
+}
+
+.mystery, .enigma, .ticking {
+    font-weight: 700;
+}
+
+.crudely {
+    text-transform: uppercase;
+    letter-spacing: 0.25em;
+    font-weight: 700;
+    font-size: 30px;
+    margin: 10px 0;
+    color: lightseagreen;
+    clear: both;
+}
+
+.that-guy, .wrapped {
+    font-size: 30px;
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.wrapped {
+    padding-left: 170px;
+}
+
+.wrapped, .enigma {
+    display: inline-block;
+    float: left;
+    margin-bottom: 15px;
+}
+
+.mystery, .enigma {
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    font-weight: 900;
+    font-size: 50px;
+    color: teal;
+}
+
+.mystery {
+    color: burlywood;
+}
+
+.ticking, .ing, .time-bomb {
+    font-size: 50px;
+}
+
+.ticking, .ing, .time-bomb {
+    font-style: italic;
+    color: gold;
+}
+
+.bleep {
+    transform: rotate(-6deg);
+    background: antiquewhite;
+    padding: 5px 5px 5px 10px;
+    color: rgb(255, 155, 0);
+    font-weight: 800;
+    letter-spacing: 0.15em;
+    margin-right: -10px;
+    font-size: 34px;
+}
+
+.time-bomb {
+    font-weight: 900;
+    font-size: 70px;
+    font-style: italic;
+    text-align: right;
+    margin-bottom: 50px;
+    color: tomato;
+}
+
+.he-was-either, .going-to {
+    margin-left: 120px;
+    font-style: italic;
+    font-size: 45px;
+    color: darkmagenta;
+}
+
+.hit {
+    font-style: italic;
+    font-weight: 700;
+    font-size: 80px;
+    margin-top: -15px;
+    color: indigo;
+}
+
+.blog {
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: navy;
+}
+
+cite {
+    font-style: initial;
+    font-size: 24px;
+}

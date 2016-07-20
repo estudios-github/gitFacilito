@@ -1,0 +1,9 @@
+git add -A = adiciona tudo
+
+git log = exibe todos os commits
+git log > commits.txt = exibe todos os commits em um arquivo
+
+git checkout codigoSHA(do commit) = vai para aquele commit
+git checkout master = vai para o ultimo commit que tinha
+
+git reset --soft codigoSHA(do commit) = apaga o commit

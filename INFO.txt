@@ -5,5 +5,11 @@ git log > commits.txt = exibe todos os commits em um arquivo
 
 git checkout codigoSHA(do commit) = vai para aquele commit
 git checkout master = vai para o ultimo commit que tinha
+git checkout NomeDoBranch = troca de branch
 
-git reset --soft codigoSHA(do commit) = apaga o commit
+git reset --soft codigoSHA(do commit) = apaga o commit, mas nao apaga o codigo
+git reset --hard codigoSHA(do commit) = apaga o commit, mas apaga o codigo
+
+HEAD = es el punto que nos encontramos AHORA
+
+git brach nameNewBranch = cria um novo branch com o nome nameNewBranch

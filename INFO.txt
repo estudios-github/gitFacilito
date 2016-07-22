@@ -13,3 +13,6 @@ git reset --hard codigoSHA(do commit) = apaga o commit, mas apaga o codigo
 HEAD = es el punto que nos encontramos AHORA
 
 git brach nameNewBranch = cria um novo branch com o nome nameNewBranch
+
+Estou nos +-6 minutos 
+https://www.youtube.com/watch?v=-UQulO_0prM&index=4&list=PL9xYXqvLX2kMUrXTvDY6GI2hgacfy0rId   

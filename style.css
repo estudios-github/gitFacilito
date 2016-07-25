@@ -12,3 +12,7 @@ div{
 	margin: 0 auto;
 	display:block;
 }
+.foot{
+	background:grey;
+	width:100%;
+}

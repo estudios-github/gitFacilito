@@ -6,3 +6,9 @@ span{
 	background: blue;
 	color:white;
 }
+
+div{
+	width:560px;
+	margin: 0 auto;
+	display:block;
+}
